@@ -12,11 +12,12 @@ In collaboration with PwC, our project developed an **AI-based market analysis t
 
 The project was structured into three main tasks, distributed among the team:
 
-1. **Data Source Identification and Web Scraping**  
+1. **Data Source Identification and Web Scraping**  (Philipp)
    Identify accessible job advertisement sources and develop a reliable web scraping tool to enable continuous data extraction.
 
-2. **Natural Language Processing (NLP) Pipeline**  
+2. **Natural Language Processing (NLP) Pipeline**  (Tom)
    Design and implement an NLP pipeline to extract structured information from unstructured job advertisement texts, including qualifications, compensations, and benefits.
+   Here is the link to this section: https://github.com/tomz2000-lab/PJS_Pipeline
 
-3. **Comprehensive Survey of Compensation and Benefits Trends and Dashboard Development**  
+3. **Comprehensive Survey of Compensation and Benefits Trends and Dashboard Development**  (Larissa)
    Conduct a literature review and empirical analysis of compensation and benefits trends to compare academic recommendations with market reality. Additionally, develop a dashboard to visualize and present the analyzed data effectively.
