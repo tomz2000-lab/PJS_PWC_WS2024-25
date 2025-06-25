@@ -32,3 +32,4 @@ The project was structured into three main tasks, distributed among the team:
 
 3. **Comprehensive Survey of Compensation and Benefits Trends and Dashboard Development**  (Larissa)
    Conduct a literature review and empirical analysis of compensation and benefits trends to compare academic recommendations with market reality. Additionally, develop a dashboard to visualize and present the analyzed data effectively.
+   Here is a link for more details about the different parts: https://github.com/larissa-stein/Projektseminar_2025
