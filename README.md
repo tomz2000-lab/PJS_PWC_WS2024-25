@@ -23,13 +23,14 @@ An AI-driven tool that continuously monitors real-time market standards addresse
 The project was structured into three main tasks, distributed among the team:
 
 1. **Data Source Identification and Web Scraping**  (Philipp)
-   Identify accessible job advertisement sources and develop a reliable web scraping tool to enable continuous data extraction. Here is the repository with the web scrapers and a complete documentation: https://github.com/PhilippCraftLink/PJS_WebScraping
+   Identify accessible job advertisement sources and develop a reliable web scraping tool to enable continuous data extraction.<br>
+   Here is the repository with the web scrapers and a complete documentation: https://github.com/PhilippCraftLink/PJS_WebScraping
 
-2. **Natural Language Processing (NLP) Pipeline**  (Tom)
+3. **Natural Language Processing (NLP) Pipeline**  (Tom)
    Design and implement an NLP pipeline to extract structured information from unstructured job advertisement texts, including qualifications, compensations, and benefits.
    This part consits of three elements: the Mongo-Database extraction, the data strucutring using NLP and the storage of the information in SQlite.<br>
    Here is a link for more details about the different parts: https://github.com/tomz2000-lab/PJS_Pipeline
 
-3. **Comprehensive Survey of Compensation and Benefits Trends and Dashboard Development**  (Larissa)
-   Conduct a literature review and empirical analysis of compensation and benefits trends to compare academic recommendations with market reality. Additionally, develop a dashboard to visualize and present the analyzed data effectively.
+4. **Comprehensive Survey of Compensation and Benefits Trends and Dashboard Development**  (Larissa)
+   Conduct a literature review and empirical analysis of compensation and benefits trends to compare academic recommendations with market reality. Additionally, develop a dashboard to visualize and present the analyzed data effectively. <br>
    Here is a link for more details about the different parts: https://github.com/larissa-stein/Projektseminar_2025
