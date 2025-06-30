@@ -24,7 +24,7 @@ The project was structured into three main tasks, distributed among the team:
 
 1. **Data Source Identification and Web Scraping**  (Philipp)
    Identify accessible job advertisement sources and develop a reliable web scraping tool to enable continuous data extraction.<br>
-   Here is the repository with the web scrapers and a complete documentation: https://github.com/PhilippCraftLink/PJS_WebScraping
+   Here is the repository with the web scrapers and a complete documentation: https://github.com/PhilippCraftLink/PJS_Web_Scraper
 
 3. **Natural Language Processing (NLP) Pipeline**  (Tom)
    Design and implement an NLP pipeline to extract structured information from unstructured job advertisement texts, including qualifications, compensations, and benefits.
